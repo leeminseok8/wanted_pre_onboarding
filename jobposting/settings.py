@@ -28,8 +28,6 @@ SECRET_KEY = SECRET_KEY
 
 DATABASES = DATABASES
 
-'django-insecure-6od)axgj&875#t38tn#x=cp7-m!^pwptiqf^nt2(o_%66&zl@j'
-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
