@@ -383,3 +383,5 @@ zsdoc/data
 .vscode
 
 .env
+resource
+*.csv
